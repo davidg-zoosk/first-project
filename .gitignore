@@ -1,0 +1,4 @@
+logs/production.log
+build/*
+!build/README.md
+
